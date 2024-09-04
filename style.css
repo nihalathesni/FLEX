@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.A{
+    height: 25%;
+    width: 95%;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.A1{
+    height: 80%;
+    width: 25%;
+    border: 2px solid black;
+}
+.A2{
+    height: 80%;
+    width: 40%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.mini{
+    height: 60%;
+    width: 35%;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.B{
+    height: 38%;
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.B1{
+    height: 100%;
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+}
+.Ba{
+    height:50% ;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.Ba1{
+  height: 100%;
+  width: 50%;
+  border: 2px solid black; 
+}
+.Ba2{
+    height: 100%;
+    width: 50%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.Ba3{
+    height: 100%;
+    width: 50%;
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-end; 
+}
+.Ba4{
+    height: 100%;
+    width: 50%;
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
+.a1{
+    height: 15%;
+    width: 10%;
+    border: 2px solid black;
+}
+.B2{
+    height: 100%;
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.B2a{
+    height: 45%;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.mini2{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+}
+.B2b{
+    height: 45%;
+    width: 100%;
+    border: 2px solid black;
+}
+.C{
+    height: 25%;
+    width: 95%;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.C1{
+    height: 90%;
+    width: 30%;
+    border: 2px solid black;
+}
+.C2{
+    height: 90%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cmini{
+    height: 100%;
+    width: 45%;
+    border: 2px solid black;
+}
